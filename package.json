@@ -1,0 +1,8 @@
+{
+  "name": "akaishi-kuroe-tiktok-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Akaishi Kuroe TikTok API for Vercel",
+  "engines": { "node": ">=18" }
+}
